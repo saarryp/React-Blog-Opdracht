@@ -1,0 +1,13 @@
+
+
+.text-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    color: orange;
+
+}
+
